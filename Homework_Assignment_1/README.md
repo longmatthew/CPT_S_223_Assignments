@@ -1,1 +1,1 @@
-<bold>"Homework Assignment 1"</bold>
+<h1>Homework Assignment 1</h1>
