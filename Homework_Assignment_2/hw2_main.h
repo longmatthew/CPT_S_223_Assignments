@@ -1,5 +1,3 @@
-#pragma once
-
 #include <iostream>
 #include <stdio.h>
 #include "HW2BST.h"
