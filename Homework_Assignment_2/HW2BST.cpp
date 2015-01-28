@@ -29,7 +29,7 @@ bool HW2BST::Add(int dataValue)
 
 bool HW2BST::Validate(Node *pMem)
 {
-	if (pMem)
+	if (pMem != NULL)
 	{
 		return true;
 	}
